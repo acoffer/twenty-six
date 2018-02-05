@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-### *What is a Rockbridge 2600 group?*
+### -**What is a Rockbridge 2600 group?**
 
-A 2600 group is a "grey hat" hacking group.
+A 2600 group is a **"grey hat"** hacking group.
 
-### *What's "grey hat" hacking?*
+### -**What's "grey hat" hacking?**
 
 The word "Hacking" has a strongly negative conotation for the general population.  It is often assocated with criminal activity pertaining to computer technology. However, hacking can have a much broader meaning.
 
@@ -20,14 +20,14 @@ In other words, hacking is not just limited to computers and criminaly activity.
 
 There is also "white hat" and "black hat" hacking.  "white hat" hacking is related to cybersecurity and "black hat" hacking is related to cybercrime.
 
-### *What happens at a meeting?*
+### -**What happens at a meeting?**
 
 Meetings typicaly involve a presentaion by one member on some topic they find intresting.  Topics can range from the ins and outs of making sourdough bread to the latest cybersecurity threats.
 
 The presentation is then typicaly followed by members discusing there current projects.  Members often seek advice from one another on how to best accomplish their project.
 
 
-### *When and where do you meet?*
+### -**When and where do you meet?**
 
 **When:**
 First Friday of every month from 6pm-8pm
@@ -35,11 +35,11 @@ First Friday of every month from 6pm-8pm
 **Where:**
 {{site.location}}
 
-### *How do I join?*
+### -**How do I join?**
 
 Just show up to one of our meetings.  There are no hoops to jump through.  We are more than happy to have new members.
 
-### *What does "2600" mean?* ##
+### -**What does "2600" mean?** 
 
 2600 is a refrence to one of the earlist modern exploits used by hackers.  
 
@@ -51,8 +51,8 @@ Just show up to one of our meetings.  There are no hoops to jump through.  We ar
 
 This type of hacking is known as ["phreaking"](https://en.wikipedia.org/wiki/Phreaking#2600_hertz) and is one of the oldest forms of modern hacking.  
 
-### *"Would you like to know more?"*
+### -**"Would you like to know more?"**
 
- ["2600: The Hacker Quarterly" wikipedia page.](https://en.wikipedia.org/wiki/2600:_The_Hacker_Quarterly)
+ ["2600: The Hacker Quarterly", wikipedia page.](https://en.wikipedia.org/wiki/2600:_The_Hacker_Quarterly)
 
- [2600 Main Website](https://www.2600.com/).
+ ["2600: The Hacker Quarterly", main website](https://www.2600.com/).
